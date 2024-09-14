@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "file-upload"]
+	url = https://github.com/Nileshvari2002/Question1
+	fetch = +refs/heads/*:refs/remotes/file-upload/*
